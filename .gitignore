@@ -1,0 +1,6 @@
+*npy
+*clf
+.idea
+*.pyc
+*log
+*.tsv
